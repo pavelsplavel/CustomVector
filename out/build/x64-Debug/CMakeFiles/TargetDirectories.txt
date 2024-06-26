@@ -1,3 +1,0 @@
-C:/Users/pavel/Desktop/Hillel_Diplom/out/build/x64-Debug/CMakeFiles/Hillel_Diplom.dir
-C:/Users/pavel/Desktop/Hillel_Diplom/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/pavel/Desktop/Hillel_Diplom/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

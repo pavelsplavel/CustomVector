@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore generated files and directories
+out/
+.vs/
